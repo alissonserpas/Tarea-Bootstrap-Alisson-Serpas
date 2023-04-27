@@ -1,0 +1,21 @@
+.foorte-img{
+    height: 550px;
+    background-image: url("../img/stage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center -200px;
+    
+    
+}
+
+
+@media(max-width: 1400px){
+    .foorte-img{
+        height: 250%;
+        background-size: cover;
+        background-position: center 0;
+           }
+}
+    
+
+
